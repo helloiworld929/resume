@@ -167,7 +167,7 @@ export const resume = {
     },
   ] satisfies Project[],
   awards: [
-    { name: '蓝桥杯全国软件和信息技术专业人才大赛', detail: 'C/C++ B 组 · 全国三等奖', year: '2025.05' },
+    { name: '蓝桥杯全国软件和信息技术专业人才大赛', detail: 'C/C++ B 组 · 全国三等奖', year: '2025.06' },
     { name: '中国高校计算机大赛团体程序设计天梯赛', detail: '省级三等奖', year: '2025' },
     { name: '“互联网+”大学生创新创业大赛', detail: '校级优秀奖 · 项目负责人', year: '2025' },
     { name: '大学英语四级（CET-4）', detail: '英语能力证书', year: '已通过' },
