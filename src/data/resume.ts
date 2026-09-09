@@ -50,8 +50,9 @@ export const resume = {
   summary: '软件工程本科在读，目前准大四，关注后端系统的业务建模、单库并发一致性与异步消息可靠性。能够使用 Java / Spring Boot 完成从接口设计、数据存储到容器部署的完整闭环，也具备 Vue 前端页面构建与联调经验。',
   skills: [
     { group: 'Java / Spring', level: '熟悉', items: 'REST API、事务管理、拦截器鉴权、参数校验与全局异常处理' },
-    { group: 'MySQL / MyBatis', level: '使用过', items: '表结构与索引设计、JOIN 查询、动态 SQL、分页查询' },
-    { group: 'RabbitMQ', level: '使用过', items: '消息发布与消费、手动 ACK、Publisher Confirm / Return、TTL 延迟重试与死信队列' },
+    { group: 'Spring Cloud', level: '了解', items: '微服务注册发现、配置中心、网关等基本概念' },
+    { group: 'MySQL / MyBatis', level: '熟悉', items: '表结构与索引设计、JOIN 查询、动态 SQL、分页查询' },
+    { group: 'RabbitMQ', level: '熟悉', items: '消息发布与消费、手动 ACK、Publisher Confirm / Return、TTL 延迟重试与死信队列' },
     { group: 'Redis', level: '使用过', items: 'setIfAbsent 限频、TTL 过期与验证码一次性校验' },
     { group: 'Docker', level: '使用过', items: 'Spring Boot、MySQL、Redis 多服务编排、健康检查与数据卷' },
     { group: '前端', level: '使用过', items: 'HTML、CSS、JavaScript、Vue.js；个人网站基于 Vue 3 + TypeScript 构建' },
