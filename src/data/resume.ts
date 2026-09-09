@@ -34,7 +34,7 @@ export type Project = {
 
 export const resume = {
   name: '王之彦',
-  title: 'Java 后端开发工程师 · 2027 届校招',
+  title: 'Java 全栈开发工程师 · 2027 届校招',
   availability: '2027 届 · 准大四 · 校招求职中',
   email: '1092011470@qq.com',
   phone: '18834521810',
@@ -53,9 +53,9 @@ export const resume = {
     { group: 'Spring Cloud', level: '了解', items: '微服务注册发现、配置中心、网关等基本概念' },
     { group: 'MySQL / MyBatis', level: '熟悉', items: '表结构与索引设计、JOIN 查询、动态 SQL、分页查询' },
     { group: 'RabbitMQ', level: '熟悉', items: '消息发布与消费、手动 ACK、Publisher Confirm / Return、TTL 延迟重试与死信队列' },
-    { group: 'Redis', level: '使用过', items: 'setIfAbsent 限频、TTL 过期与验证码一次性校验' },
+    { group: 'Redis', level: '熟悉', items: '缓存穿透/击穿/雪崩、持久化、setIfAbsent 限频与 TTL 过期' },
     { group: 'Docker', level: '使用过', items: 'Spring Boot、MySQL、Redis 多服务编排、健康检查与数据卷' },
-    { group: '前端', level: '使用过', items: 'HTML、CSS、JavaScript、Vue.js；个人网站基于 Vue 3 + TypeScript 构建' },
+    { group: '前端', level: '熟悉', items: 'HTML、CSS、JavaScript、Vue.js；个人网站基于 Vue 3 + TypeScript 构建' },
   ],
   projects: [
     {
